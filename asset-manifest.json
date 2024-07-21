@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/json-explorer/static/css/main.8f4ffce1.css",
+    "main.css": "/json-explorer/static/css/main.fb5fd05f.css",
     "main.js": "/json-explorer/static/js/main.69fc9e2c.js",
     "static/js/453.d08b9bb8.chunk.js": "/json-explorer/static/js/453.d08b9bb8.chunk.js",
+    "static/media/SourceSans3-SemiBold.woff2": "/json-explorer/static/media/SourceSans3-SemiBold.c49bd7f2a71ac916cd17.woff2",
+    "static/media/SourceSans3-Regular.woff2": "/json-explorer/static/media/SourceSans3-Regular.de4f3157e02f6a839052.woff2",
+    "static/media/SourceSans3-Bold.woff2": "/json-explorer/static/media/SourceSans3-Bold.6fe2a78dcb33af317a48.woff2",
     "static/media/logo.svg": "/json-explorer/static/media/logo.a6ac52a6771837dc57311660cb1a1a5b.svg",
     "index.html": "/json-explorer/index.html",
-    "main.8f4ffce1.css.map": "/json-explorer/static/css/main.8f4ffce1.css.map",
+    "main.fb5fd05f.css.map": "/json-explorer/static/css/main.fb5fd05f.css.map",
     "main.69fc9e2c.js.map": "/json-explorer/static/js/main.69fc9e2c.js.map",
     "453.d08b9bb8.chunk.js.map": "/json-explorer/static/js/453.d08b9bb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f4ffce1.css",
+    "static/css/main.fb5fd05f.css",
     "static/js/main.69fc9e2c.js"
   ]
 }
