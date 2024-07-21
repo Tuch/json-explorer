@@ -1,0 +1,24 @@
+.root {
+  font-family: monospace;
+  border: 1px solid var(--color-gray-150);
+  border-radius: 8px;
+
+  padding: 18px 0px;
+  font-size: 20px;
+  letter-spacing: 0.3px;
+  line-height: 24px;
+}
+
+.jsonContainer, 
+.objectBody {
+  margin-left: 28px;
+}
+
+.key {
+  color: var(--color-dark-80);
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
